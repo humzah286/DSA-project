@@ -16,5 +16,12 @@ Sample data for data.csv is given below:
 Now moving on to Application, We can search a player, club or country using the Search bar given below: 
 
 <div align="center">
-<img src="images/2.png" width="400">
+<img src="images/2.png" width="600">
 </div>
+
+we will search for player Lewandowski, following are the results : 
+
+<div align="center">
+<img src="images/3.png" width="600">
+</div>
+
