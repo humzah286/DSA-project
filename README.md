@@ -7,5 +7,5 @@ To keep track of players, clubs and countries, we used AVL trees where each node
 Sample data for data.csv is given below: 
 
 <div align="center">
-<img src="images/1.png" width="350">
+<img src="images/1.png" width="750">
 </div>
