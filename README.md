@@ -22,7 +22,7 @@ Now moving on to Application, We can search a player, club or country using the 
 <br>
 <br>
 
-we will search for player Lewandowski, following are the results where his all statistics are being showed.  
+we will search for player Lewandowski, following are the results where all his statistics are being showed.  
 
 <div align="center">
 <img src="images/3.png" width="600">
@@ -31,10 +31,19 @@ we will search for player Lewandowski, following are the results where his all s
 <br> 
 <br> 
 
-Now we can go to his club or country, we will first see his club. 
+Now we can go to his club or country, we will first see his club. In club, we can view all the players and we can go any player's detailed view.
 
 <div align="center">
 <img src="images/4.png" width="600">
+</div>
+
+<br> 
+<br> 
+
+Now similarly going to his country. 
+
+<div align="center">
+<img src="images/5.png" width="600">
 </div>
 
 <br> 
