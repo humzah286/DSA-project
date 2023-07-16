@@ -19,6 +19,9 @@ Now moving on to Application, We can search a player, club or country using the 
 <img src="images/2.png" width="600">
 </div>
 
+<br>
+<br>
+
 we will search for player Lewandowski, following are the results where his all statistics are being showed.  
 
 <div align="center">
