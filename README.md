@@ -58,3 +58,13 @@ Now from home page, we will view all players where we can sort them according to
 <br> 
 <br> 
 
+We will view all the players in dataset according to wage. 
+
+<div align="center">
+<img src="images/7.png" width="600">
+</div>
+
+<br> 
+<br> 
+
+
