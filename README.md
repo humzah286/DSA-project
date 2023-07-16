@@ -49,3 +49,12 @@ Now similarly going to his country.
 <br> 
 <br> 
 
+Now from home page, we will view all players where we can sort them according to any feature. 
+
+<div align="center">
+<img src="images/6.png" width="600">
+</div>
+
+<br> 
+<br> 
+
