@@ -9,3 +9,12 @@ Sample data for data.csv is given below:
 <div align="center">
 <img src="images/1.png">
 </div>
+
+<br>
+<br>
+
+Now moving on to Application, We can search a player, club or country using the Search bar given below: 
+
+<div align="center">
+<img src="images/2.png" width="400">
+</div>
